@@ -1,5 +1,12 @@
 # neochic-tooltip
 Simple tooltip plugin for jQuery
+
+## Installation
+The plugin is not registered in the bower registry. However you can install it via bower directly from GitHub.
+```
+bower install https://github.com/Neochic/neochic-tooltip.git
+```
+
 ## Usage
 **HTML**
 ```html

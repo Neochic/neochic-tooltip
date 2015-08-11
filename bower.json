@@ -1,11 +1,25 @@
 {
   "name": "neochic-tooltip",
   "main": "jquery.neochic.tooltip.js",
+  "description": "Simple tooltip plugin for jQuery",
   "version": "0.1.0",
+  "homepage": "https://github.com/Neochic/neochic-tooltip",
+  "license": "MIT",
   "authors": [
     "Christoph Stickel <christoph@neochic.de>"
   ],
-  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "tooltip"
+  ],
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Neochic/neochic-tooltip.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
